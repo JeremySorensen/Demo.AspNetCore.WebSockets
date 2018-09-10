@@ -1,3 +1,8 @@
+# This Fork is edited to remove the top level part of the demo, making it reusable in other projects.
+See [This demo](https://github.com/JeremySorensen/WebSocketsDemo) to get a working program that depends on this repo to get the original demo functionality.
+
+The rest of this readme is the original by Tomasz Pęczek.
+
 # Demo.AspNetCore.WebSockets
 
 Sample project for demonstrating low-level WebSocket protocol aspects in ASP.NET Core:
